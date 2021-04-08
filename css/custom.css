@@ -1,0 +1,7 @@
+input {
+    width: 45px;
+  }
+
+#addGrocery input {
+    width: 70px;
+}
